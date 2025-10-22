@@ -1,2 +1,2 @@
-console.log("somthing chnage")
-console.log("somthing chnage")
+console.log("somthing change")
+console.log("somthing change")
