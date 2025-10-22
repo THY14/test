@@ -1,5 +1,2 @@
 console.log("somthing change")
-console.log("somthing change");
-
-
-bjjh
+console.log("somthing change")
